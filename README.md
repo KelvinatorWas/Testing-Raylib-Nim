@@ -6,9 +6,9 @@ You can do this using the Nimble package manager, which comes with Nim by defaul
 
 To use this project, you'll need to have the following installed on your system:
 
-* [Nim programming language](https://nim-lang.org/)
-* [nim-classes](https://github.com/jjv360/nim-classes) package
-* [nimraylib_now](https://github.com/greenfork/nimraylib_now) package
+* Nim programming language
+* nim-classes package
+* nimraylib_now package
 
 ### Installing Dependencies
 
