@@ -1,0 +1,56 @@
+{
+    "Beta_Input": {
+      "input": {
+        "A": {
+          "key": 65,
+          "in_action":false,
+          "type_action": "pressed"
+        },
+        "D": {
+          "key": 68,
+          "in_action":false,
+          "type_action": "pressed"
+        },
+        "W": {
+          "key": 87,
+          "in_action":false,
+          "type_action": "pressed"
+        },
+        "jump": {
+          "key": 32,
+          "in_action":false,
+          "type_action": "pressed"
+        },
+        "S": {
+          "key": 83,
+          "in_action":false,
+          "type_action": "pressed"
+        },
+        "shift": {
+          "key": 340,
+          "in_action":false,
+          "type_action": "pressed"
+        },
+        "exit": {
+          "key": 256,
+          "in_action":false,
+          "type_action": "pressed"
+        }
+      },
+      "mouse_input": {
+        "left_mouse_button":{
+          "mouse_key": 0,
+          "in_action": false,
+          "type_action":"pressed",
+          "toggle": "false"
+        },
+        "right_mouse_button":{
+          "mouse_key": 1,
+          "in_action": false,
+          "type_action":"pressed",
+          "toggle": "false"
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,10 @@
+{
+    "Window": {
+        "size": [1280, 720],
+        "virtual_size": [320, 180],
+        "title": "Framework",
+        "color": "RAYWHITE",
+        "fps": 60,
+	    "fullscreen":false
+    }
+}
